@@ -8,8 +8,8 @@ import java.util.List;
 public class ArticuloService {
     private ArticuloDAO  articuloDAO;
 
-    public ArticuloService() {
-        this.articuloDAO = new ArticuloDAOImpl();
+    public ArticuloService(ArticuloDAO articuloDAO) {
+        this.articuloDAO = articuloDAO;
     }
 
     public Articulo buscarArticulo(int codArticulo) {
