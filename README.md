@@ -26,7 +26,6 @@ Copiar código
 mvn clean install
 Ejecutar tests:
 
-
 bash
 Copiar código
 mvn test
