@@ -1,7 +1,6 @@
 # 🛒 TPV Free
 Proyecto en **Java 21** para la gestión de un **TPV (Terminal Punto de Venta)** con persistencia en **MySQL** usando **JDBC**.
 
-
 ## 🚀 Funcionalidades
 - Gestión de usuarios (CRUD, roles, activo/inactivo).
 - Persistencia de datos con MySQL.
