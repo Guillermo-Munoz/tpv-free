@@ -18,6 +18,7 @@ Proyecto en **Java 21** para la gestión de un **TPV (Terminal Punto de Venta)**
    db.url=jdbc:mysql://localhost:3306/tpv_db
    db.user=root
    db.password=tu_password
+   
 Compilar:
 
 bash
