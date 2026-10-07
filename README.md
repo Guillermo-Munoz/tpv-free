@@ -6,6 +6,7 @@ Proyecto en **Java 21** para la gestión de un **TPV (Terminal Punto de Venta)**
 - Persistencia de datos con MySQL.
 - Arquitectura en capas: `model`, `dao`, `service`, `util`.
 
+
 ## 🗄️ Requisitos
 - Java 21
 - MySQL 8+
